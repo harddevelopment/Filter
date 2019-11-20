@@ -1,0 +1,199 @@
+﻿  Building 'Filter' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Release\Filter.inf [Version] section with DriverVer=12/09/2017,15.9.17.454
+  Source.c
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(8876): error C2220: warning treated as error - no 'object' file generated
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(8876): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(8883): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(8888): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(8896): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(9063): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(9070): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(9075): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(9083): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(9102): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(9103): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(10203): warning C4201: nonstandard extension used: nameless struct/union
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\km\ndis.h(10240): warning C4201: nonstandard extension used: nameless struct/union
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2565): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2565): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2566): warning C4142: 'UINT32': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h(81): note: see declaration of 'UINT32'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2566): error C2370: 'UINT32': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h(81): note: see declaration of 'UINT32'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2566): error C2146: syntax error: missing ';' before identifier 'queryFlags'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2566): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2567): error C2371: 'FWPS_PACKET_LIST_INFORMATION0': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2559): note: see declaration of 'FWPS_PACKET_LIST_INFORMATION0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2567): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2567): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2568): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2568): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2589): error C2146: syntax error: missing ')' before identifier 'netBufferList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2589): error C2081: 'PNET_BUFFER_LIST': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2589): error C2061: syntax error: identifier 'netBufferList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2589): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2590): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2789): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2789): error C2081: 'NET_BUFFER_LIST': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2789): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2790): error C2371: 'BOOLEAN': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(1581): note: see declaration of 'BOOLEAN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2790): error C2146: syntax error: missing ';' before identifier 'dispatchLevel'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2790): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2791): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2791): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2803): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2803): error C2081: 'NET_BUFFER_LIST': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2803): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2804): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2804): error C2040: 'netBufferList': 'int **' differs in levels of indirection from 'int *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2804): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2810): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2810): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2811): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2811): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2817): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2817): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2818): error C2040: 'NDIS_HANDLE': 'int' differs in levels of indirection from 'PVOID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2818): error C2146: syntax error: missing ';' before identifier 'netBufferListPoolHandle'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2818): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2819): error C2040: 'NDIS_HANDLE': 'int' differs in levels of indirection from 'PVOID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2819): error C2146: syntax error: missing ';' before identifier 'netBufferPoolHandle'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2819): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2820): warning C4142: 'ULONG': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2820): error C2370: 'ULONG': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2820): error C2146: syntax error: missing ';' before identifier 'allocateCloneFlags'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2820): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2821): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2821): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2822): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2822): error C2040: 'netBufferList': 'int **' differs in levels of indirection from 'int *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2822): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2828): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2828): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2829): warning C4142: 'ULONG': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2829): error C2370: 'ULONG': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2829): error C2146: syntax error: missing ';' before identifier 'freeCloneFlags'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2829): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2830): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2830): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2839): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2839): error C2081: 'NET_BUFFER_LIST': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2839): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2840): error C2040: 'NDIS_HANDLE': 'int' differs in levels of indirection from 'PVOID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2840): error C2146: syntax error: missing ';' before identifier 'netBufferAndNetBufferListPoolHandle'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2840): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2841): warning C4142: 'ULONG': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2841): error C2370: 'ULONG': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2841): error C2146: syntax error: missing ';' before identifier 'dataBackFill'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2841): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2842): warning C4142: 'ULONG': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2842): error C2370: 'ULONG': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2842): error C2146: syntax error: missing ';' before identifier 'flags'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2842): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2843): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2843): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2844): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2844): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2860): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2860): error C2081: 'NET_BUFFER_LIST': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2860): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2861): error C2146: syntax error: missing ';' before identifier 'completionFn'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2861): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2862): error C2040: 'HANDLE': 'int' differs in levels of indirection from 'void *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2862): error C2146: syntax error: missing ';' before identifier 'completionContext'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2862): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2863): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2863): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2875): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2875): error C2081: 'NET_BUFFER_LIST': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2875): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2876): error C2146: syntax error: missing ';' before identifier 'completionFn'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2876): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2877): error C2040: 'HANDLE': 'int' differs in levels of indirection from 'void *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2877): error C2146: syntax error: missing ';' before identifier 'completionContext'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2877): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2878): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2878): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2886): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2886): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2887): warning C4142: 'ULONG': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2887): error C2370: 'ULONG': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2887): error C2146: syntax error: missing ';' before identifier 'headerIncludeHeaderLength'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2887): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2888): error C2371: 'ADDRESS_FAMILY': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ws2def.h(81): note: see declaration of 'ADDRESS_FAMILY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2888): error C2146: syntax error: missing ';' before identifier 'addressFamily'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2888): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2889): error C2371: 'UCHAR': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(682): note: see declaration of 'UCHAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2889): warning C4228: nonstandard extension used: qualifiers after comma in declarator list are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2889): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2889): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2890): error C2371: 'UCHAR': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(682): note: see declaration of 'UCHAR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2890): warning C4228: nonstandard extension used: qualifiers after comma in declarator list are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2890): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2890): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2891): error C2370: 'IPPROTO': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ws2def.h(491): note: see declaration of 'IPPROTO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2891): error C2146: syntax error: missing ';' before identifier 'nextProtocol'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2891): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2892): error C2371: 'UINT64': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h(82): note: see declaration of 'UINT64'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2892): error C2146: syntax error: missing ';' before identifier 'endpointHandle'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2892): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2893): error C2371: 'WSACMSGHDR': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ws2def.h(726): note: see declaration of 'WSACMSGHDR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2893): warning C4228: nonstandard extension used: qualifiers after comma in declarator list are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2893): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2893): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2894): warning C4142: 'ULONG': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2894): error C2370: 'ULONG': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ntdef.h(684): note: see declaration of 'ULONG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2894): error C2146: syntax error: missing ';' before identifier 'controlDataLength'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2894): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2895): warning C4142: 'UINT32': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h(81): note: see declaration of 'UINT32'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2895): error C2370: 'UINT32': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h(81): note: see declaration of 'UINT32'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2895): error C2146: syntax error: missing ';' before identifier 'flags'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2895): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2896): error C2040: 'PVOID': 'int' differs in levels of indirection from 'void *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2896): error C2146: syntax error: missing ';' before identifier 'reserved'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2896): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2897): warning C4142: 'IF_INDEX': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ifdef.h(171): note: see declaration of 'IF_INDEX'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2897): error C2370: 'IF_INDEX': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ifdef.h(171): note: see declaration of 'IF_INDEX'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2897): error C2146: syntax error: missing ';' before identifier 'interfaceIndex'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2897): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2898): warning C4142: 'IF_INDEX': benign redefinition of type
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ifdef.h(171): note: see declaration of 'IF_INDEX'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2898): error C2370: 'IF_INDEX': redefinition; different storage class
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ifdef.h(171): note: see declaration of 'IF_INDEX'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2898): error C2146: syntax error: missing ';' before identifier 'subInterfaceIndex'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2898): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2899): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2899): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2914): error C2143: syntax error: missing ')' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2914): error C2081: 'NET_BUFFER_LIST': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2914): error C2143: syntax error: missing '{' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2915): error C2146: syntax error: missing ';' before identifier 'completionFn'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2915): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2916): error C2040: 'HANDLE': 'int' differs in levels of indirection from 'void *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2916): error C2146: syntax error: missing ';' before identifier 'completionContext'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2916): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2917): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\km\fwpsk.h(2917): fatal error C1003: error count exceeds 100; stopping compilation

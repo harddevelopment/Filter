@@ -1,0 +1,53 @@
+﻿  Building 'Filter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: устранение рисков Spectre включено, однако библиотеки Spectre с устраненными рисками не найдены. Убедитесь, что рабочая нагрузка Visual Studio включает библиотеки Spectre с устраненными рисками. Дополнительные сведения см. в статье https://aka.ms/Ofhn4c.
+  Stamping Debug\Filter.inf
+  Stamping [Version] section with DriverVer=10/24/2019,19.30.13.862
+  Source.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9174): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9181): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9186): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9194): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9361): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9368): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9373): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9381): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9400): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9401): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(10501): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(10538): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(24): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(30): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(94): warning C4047: =: "HANDLE" отличается по уровням косвенного обращения от "NTSTATUS"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(143): warning C4100: filter: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(143): warning C4100: filterkey: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(143): warning C4100: type: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(148): warning C4100: flowcontext: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(148): warning C4100: calloutid: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(148): warning C4100: layerid: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(154): warning C4459: объявление "ip" скрывает глобальное объявление
+  c:\users\ognev\desktop\lab 4\filter\filter\source.c(19): note:  см. объявление "ip"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(165): warning C4100: flowcontext: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(165): warning C4100: filter: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(165): warning C4100: context: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(164): warning C4100: layerdata: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(164): warning C4100: MetaData: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(221): warning C4189: condition: локальная переменная инициализирована, но не использована
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(269): warning C4100: RegistryPath: неиспользованный формальный параметр
+  Filter.vcxproj -> C:\Users\ognev\Desktop\lab 4\Filter\Debug\Filter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ognev\Desktop\lab 4\Filter\Debug\Filter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\ognev\Desktop\lab 4\Filter\Debug\Filter\filter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ognev\Desktop\lab 4\Filter\Debug\Filter\filter.cat
+  

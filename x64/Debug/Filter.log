@@ -1,0 +1,68 @@
+﻿  Building 'Filter' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: устранение рисков Spectre включено, однако библиотеки Spectre с устраненными рисками не найдены. Убедитесь, что рабочая нагрузка Visual Studio включает библиотеки Spectre с устраненными рисками. Дополнительные сведения см. в статье https://aka.ms/Ofhn4c.
+  Stamping x64\Debug\Filter.inf
+  Stamping [Version] section with DriverVer=11/16/2019,14.7.27.434
+  Source.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9174): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9181): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9186): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9194): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9361): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9368): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9373): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9381): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9400): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(9401): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(10501): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\km\ndis.h(10538): warning C4201: нестандартное расширение: структура (объединение) без имени
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(70): warning C4100: filter: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(70): warning C4100: filterkey: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(70): warning C4100: type: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(76): warning C4459: объявление "ip" скрывает глобальное объявление
+  c:\users\ognev\desktop\lab 4\filter\filter\source.c(26): note:  см. объявление "ip"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(87): warning C4100: flowcontext: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(87): warning C4100: filter: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(87): warning C4100: context: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(86): warning C4100: layerdata: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(99): warning C4189: Flag: локальная переменная инициализирована, но не использована
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(137): warning C4459: объявление "ip" скрывает глобальное объявление
+  c:\users\ognev\desktop\lab 4\filter\filter\source.c(26): note:  см. объявление "ip"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(145): warning C4100: flowcontext: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(145): warning C4100: filter: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(145): warning C4100: context: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(144): warning C4100: layerdata: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(157): warning C4189: Flag: локальная переменная инициализирована, но не использована
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(226): warning C4133: функция: несовместимые типы - из "FWPS_CALLOUT3 *" в "const FWPS_CALLOUT1 *"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(238): warning C4133: функция: несовместимые типы - из "FWPS_CALLOUT3 *" в "const FWPS_CALLOUT1 *"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(280): warning C4189: condition: локальная переменная инициализирована, но не использована
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(396): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(411): warning C4459: объявление "ip" скрывает глобальное объявление
+  c:\users\ognev\desktop\lab 4\filter\filter\source.c(26): note:  см. объявление "ip"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(422): warning C4242: =: преобразование "WCHAR" в "char", возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(485): warning C4242: =: преобразование "WCHAR" в "unsigned char", возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(487): warning C4244: =: преобразование "int" в "unsigned char", возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(513): warning C4242: =: преобразование "int" в "UINT16", возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(525): warning C4242: =: преобразование "int" в "UINT16", возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(454): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(619): warning C4133: функция: несовместимые типы - из "char [1024]" в "const wchar_t *"
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(620): warning C4267: =: преобразование из "size_t" в "ULONG"; возможна потеря данных
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(591): warning C4100: fdo: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(596): warning C4189: ControlCode: локальная переменная инициализирована, но не использована
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(635): warning C4100: DriverObject: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(645): warning C4100: fdo: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(654): warning C4100: fdo: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(664): warning C4100: RegistryPath: неиспользованный формальный параметр
+c:\users\ognev\desktop\lab 4\filter\filter\source.c(581): warning C4702: недостижимый код
+  Filter.vcxproj -> C:\Users\ognev\Desktop\lab 4\Filter\x64\Debug\Filter.sys
+  Driver is a Universal Driver.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\ognev\Desktop\lab 4\Filter\x64\Debug\Filter\filter.cat
